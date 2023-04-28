@@ -15,7 +15,7 @@ A series of tools will be needed, on the laptop or the VM where you run the scri
 - `kubectl`
 - `openssl`
 - `curl`
-- Instana kubectl plugin. Please visit the doc [here](https://www.ibm.com/docs/en/instana-observability/current?topic=premises-instana-kubectl-plug-in#manual-installation) to download the right `kubectl` plugin, with the desired version, and install it properly.
+- Instana kubectl plugin. Please visit the doc [here](https://www.ibm.com/docs/en/instana-observability/current?topic=openshift-instana-kubectl-plug-in#installation) to download the right `kubectl` plugin, with the desired version, and install it properly.
 - [`yq`](https://github.com/mikefarah/yq)
 
 ### The OpenShift Cluster
